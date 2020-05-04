@@ -1,0 +1,30 @@
+.profile-pic {
+  border-radius: 40%;
+  width: 10%;
+  height: 0%;
+  margin: 2% 5% 1% 2%;
+}
+header {
+  display: flex;
+  margin: 0% 0% 0% 0%;
+  background-color: blanchedalmond;
+}
+.name-label {
+}
+.mission {
+  width: 95%;
+}
+.skill {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  font-weight: bold;
+}
+.links {
+  margin: 2% 0% 0% 42%;
+  justify-content: space-around;
+}
+.links a {
+  margin: 0% 5% 0% 0%;
+  text-decoration: none;
+}
